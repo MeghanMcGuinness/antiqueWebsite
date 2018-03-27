@@ -1,0 +1,68 @@
+#logo{
+    width:auto;
+    max-width:300px;
+}
+.navbar{
+    background-color: #76818E;
+    color: black;
+}
+
+#navbar-collapse{
+    color: black;
+}
+
+ul, li{
+    color: black;
+}
+
+#ulFont{
+    color:black;
+}
+
+.fluid-container{
+    margin: 0 auto;
+    width:80%;
+}
+
+.btn-info{
+    color:black;
+}
+
+body{
+    background-color: #76818E;
+    color:black;
+}
+
+.navbar-brand{
+    padding: 5px;
+}
+
+.navbar-right{
+    width:auto;
+}
+
+.quotes{
+    text-align:center;
+    margin:0 auto;
+    font-size: 20px;
+}
+
+.body2{
+    text-align:center;
+}
+
+.panel-title{
+    text-align:center;
+}
+
+.modal-body{
+    text-align:center;
+}
+.panel{
+    background-color: #76818E;
+}
+
+#accordion{
+    margin:0 auto;
+    width: 50%;
+}
