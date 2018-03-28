@@ -1,10 +1,12 @@
-#logo{
-    width:auto;
-    max-width:300px;
-}
 .navbar{
-    background-color: #76818E;
+    background-color: #A27E6F;
     color: black;
+}
+
+#logo{
+    max-width:250px;
+    padding:0px;
+    
 }
 
 #navbar-collapse{
@@ -21,24 +23,22 @@ ul, li{
 
 .fluid-container{
     margin: 0 auto;
-    width:80%;
-}
-
-.btn-info{
-    color:black;
+    width:70%;
 }
 
 body{
-    background-color: #76818E;
+    background-color: ;
     color:black;
+    background-color: #A27E6F;
 }
+
 
 .navbar-brand{
     padding: 5px;
 }
 
 .navbar-right{
-    width:auto;
+    text-align:left;
 }
 
 .quotes{
@@ -47,22 +47,34 @@ body{
     font-size: 20px;
 }
 
-.body2{
+#collapse2{
     text-align:center;
 }
 
 .panel-title{
     text-align:center;
+    color:white;
 }
 
 .modal-body{
     text-align:center;
 }
+
 .panel{
-    background-color: #76818E;
+    background-color: #A27E6F;
+    border-color: #A27E6F;
 }
 
 #accordion{
     margin:0 auto;
-    width: 50%;
+    width: 70%;
+}
+
+.btn, .btn-info, .btn-lg{
+    color:white;
+    background-color:#564D4A;
+}
+
+#footer{
+    width:100%;
 }
